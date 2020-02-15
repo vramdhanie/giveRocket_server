@@ -17,6 +17,8 @@
   "author": "Vincent Ramdhanie",
   "license": "MIT",
   "dependencies": {
+    "@google-cloud/firestore": "^3.5.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "jest": "^25.1.0"
   },
